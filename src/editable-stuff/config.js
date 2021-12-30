@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/fauziashaikh.png"),
+  imageLink: require("../editable-stuff/test-.png"),
   imageSize: 375,
   message:
     "Hi, I am Fauzia Shaikh. I have 2.7+ years of experience as a Full Stack Developer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.",
@@ -66,15 +66,15 @@ const leadership = {
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
-    { 
-      img: require("../editable-stuff/fauziashaikh.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/fauziashaikh.png"),
+      label: "First slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum."
     },
-    { 
-      img: require("../editable-stuff/fauziashaikh.png"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/fauziashaikh.png"),
+      label: "Second slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum."
     },
   ],
   imageSize: {
@@ -85,7 +85,6 @@ const leadership = {
 
 // SKILLS SECTION
 const skills = {
-  show: true,
   show: true,
   heading: "Skills",
   gcpSkills: [
@@ -131,7 +130,7 @@ const skills = {
   ],
 };
 
-// GET IN TOUCH SECTION
+
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
