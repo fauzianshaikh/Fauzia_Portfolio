@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fauzia Naushad Shaikh</h1>
-<h3 align="center">3+ years of experience as a Full Stack Developer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.</h3>
+<h3 align="center">I have 3+ years of experience as a Software Development Engineer (DevOps Engineer / SRE / Cloud Engineer) with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Jenkins, Continuous Integration and Continuous Delivery (CI/CD), Automating pipelines, Apache Kafka, Spinnaker Platform, Istio rules (Authorization Policy, Virtual Services and Config maps), Docker, Git, Load Balancers, Google Cloud Stackdriver, Veracode integration, Lighthouse integration, SonarQube Integration, Webhook Integration, Content Delivery Network (CDN), Grafana Dashboards, Namespace creation, handled weekly Production deployments in the project. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from Maulana Azad National Institute of Technology (NIT Bhopal).
+</h3>
 
 - 🔭 I’m currently working on [Terraform using Google Cloud services](https://github.com/FAUZIANSHAIKH/GCP-Terraform-Challenge-Lab.git)
 
@@ -7,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **Some innovation and creative DevOps project**
 
-- 👨‍💻 All of my projects are available at [fauziashaikh.netlify.com](fauziashaikh.netlify.com)
+- 👨‍💻 All of my projects are available at [Profile](https://fauzianshaikh.github.io/Fauzia_Portfolio/#home)
 
 - 💬 Ask me about **DevOps, GCP, Kubernetes, Docker, CI/CD, Jenkins**
 
 - 📫 How to reach me **fauziashaikh2601@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15a-zj1AE-eeWMa6ikNQ5Mj0ArHQPczk5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a0nMdF_MYj_3Y11c6ctLpXqa7TP7yt8H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

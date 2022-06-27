@@ -41,8 +41,7 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/test-.png"),
   imageSize: 375,
-  message:
-    "I'm Fauzia Shaikh. 3+ years of experience as a Software Development Engineer (DevOps Engineer / SRE / Cloud Engineer) with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Jenkins, Continuous Integration and Continuous Delivery (CI/CD), Automating pipelines, Apache Kafka, Spinnaker Platform, Istio rules (Authorization Policy, Virtual Services and Config maps), Docker, Git, Load Balancers, Google Cloud Stackdriver, Veracode integration, Lighthouse integration, SonarQube Integration, Webhook Integration, Content Delivery Network (CDN), Grafana Dashboards, Namespace creation, handled weekly Production deployments in the project. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from Maulana Azad National Institute of Technology (NIT Bhopal).",
+  message: "I'm Fauzia Shaikh. I have 3+ years of experience as a Software Development Engineer (DevOps Engineer / SRE / Cloud Engineer) with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Jenkins, Continuous Integration and Continuous Delivery (CI/CD), Automating pipelines, Apache Kafka, Spinnaker Platform, Istio rules (Authorization Policy, Virtual Services and Config maps), Docker, Git, Load Balancers, Google Cloud Stackdriver, Veracode integration, Lighthouse integration, SonarQube Integration, Webhook Integration, Content Delivery Network (CDN), Grafana Dashboards, Namespace creation, handled weekly Production deployments in the project. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from Maulana Azad National Institute of Technology (NIT Bhopal).",
   resume: "https://drive.google.com/file/d/1a0nMdF_MYj_3Y11c6ctLpXqa7TP7yt8H/view?usp=sharing",
 };
 
@@ -108,6 +107,8 @@ const skills = {
     { name: "Jenkins", value: 90 },
     { name: "Kubernetes", value: 75 },
     { name: "Docker", value: 80 },
+    { name: "Istio", value: 75 },
+    { name: "CDN", value:  75},
     { name: "Spinnaker Platform", value: 90 },
     { name: "Grafana", value: 70 },
     { name: "Apache Kafka", value: 75 },
