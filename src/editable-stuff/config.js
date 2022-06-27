@@ -42,8 +42,8 @@ const about = {
   imageLink: require("../editable-stuff/test-.png"),
   imageSize: 375,
   message:
-    "Hi, I am Fauzia Shaikh. I have 2.7+ years of experience as a Full Stack Developer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.",
-  resume: "https://drive.google.com/file/d/15a-zj1AE-eeWMa6ikNQ5Mj0ArHQPczk5/view?usp=sharing",
+    "I'm Fauzia Shaikh. 3+ years of experience as a Software Development Engineer (DevOps Engineer / SRE / Cloud Engineer) with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Jenkins, Continuous Integration and Continuous Delivery (CI/CD), Automating pipelines, Apache Kafka, Spinnaker Platform, Istio rules (Authorization Policy, Virtual Services and Config maps), Docker, Git, Load Balancers, Google Cloud Stackdriver, Veracode integration, Lighthouse integration, SonarQube Integration, Webhook Integration, Content Delivery Network (CDN), Grafana Dashboards, Namespace creation, handled weekly Production deployments in the project. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from Maulana Azad National Institute of Technology (NIT Bhopal).",
+  resume: "https://drive.google.com/file/d/1a0nMdF_MYj_3Y11c6ctLpXqa7TP7yt8H/view?usp=sharing",
 };
 
 // PROJECTS SECTION
