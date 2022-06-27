@@ -1,26 +1,17 @@
 {
   "files": {
-    "main.css": "/Fauzia_Portfolio/static/css/main.956fad23.chunk.css",
-    "main.js": "/Fauzia_Portfolio/static/js/main.223bdac1.chunk.js",
-    "main.js.map": "/Fauzia_Portfolio/static/js/main.223bdac1.chunk.js.map",
-    "runtime-main.js": "/Fauzia_Portfolio/static/js/runtime-main.fc759e58.js",
-    "runtime-main.js.map": "/Fauzia_Portfolio/static/js/runtime-main.fc759e58.js.map",
-    "static/js/2.238b5e66.chunk.js": "/Fauzia_Portfolio/static/js/2.238b5e66.chunk.js",
-    "static/js/2.238b5e66.chunk.js.map": "/Fauzia_Portfolio/static/js/2.238b5e66.chunk.js.map",
+    "main.css": "/Fauzia_Portfolio/static/css/main.4a76a44c.css",
+    "main.js": "/Fauzia_Portfolio/static/js/main.9b9f6b04.js",
+    "static/media/FauziaShaikhResume.pdf": "/Fauzia_Portfolio/static/media/FauziaShaikhResume.6b992a1d73fdc804309f.pdf",
+    "static/media/test-.png": "/Fauzia_Portfolio/static/media/test-.659f459bbd085447786a.png",
+    "static/media/fauziashaikh.png": "/Fauzia_Portfolio/static/media/fauziashaikh.e1a55d9adf712a1bcdda.png",
+    "static/media/publicissapientlogo.png": "/Fauzia_Portfolio/static/media/publicissapientlogo.b2a2da678fe9a6b1b2a0.png",
     "index.html": "/Fauzia_Portfolio/index.html",
-    "precache-manifest.fb4ea66290efae7ee30c7c37ad36ceb0.js": "/Fauzia_Portfolio/precache-manifest.fb4ea66290efae7ee30c7c37ad36ceb0.js",
-    "service-worker.js": "/Fauzia_Portfolio/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/Fauzia_Portfolio/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.238b5e66.chunk.js.LICENSE.txt": "/Fauzia_Portfolio/static/js/2.238b5e66.chunk.js.LICENSE.txt",
-    "static/media/FauziaShaikhResume.pdf": "/Fauzia_Portfolio/static/media/FauziaShaikhResume.5954ac85.pdf",
-    "static/media/fauziashaikh.png": "/Fauzia_Portfolio/static/media/fauziashaikh.71a90b82.png",
-    "static/media/publicissapientlogo.png": "/Fauzia_Portfolio/static/media/publicissapientlogo.3c6d301a.png",
-    "static/media/test-.png": "/Fauzia_Portfolio/static/media/test-.bead3a0f.png"
+    "main.4a76a44c.css.map": "/Fauzia_Portfolio/static/css/main.4a76a44c.css.map",
+    "main.9b9f6b04.js.map": "/Fauzia_Portfolio/static/js/main.9b9f6b04.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc759e58.js",
-    "static/js/2.238b5e66.chunk.js",
-    "static/css/main.956fad23.chunk.css",
-    "static/js/main.223bdac1.chunk.js"
+    "static/css/main.4a76a44c.css",
+    "static/js/main.9b9f6b04.js"
   ]
 }
