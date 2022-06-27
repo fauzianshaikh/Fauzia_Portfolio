@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzia Naushad Shaikh</h1>
-<h3 align="center">2.7+ years of experience as a Full Stack Developer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.</h3>
+<h3 align="center">3+ years of experience as a Full Stack Developer with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Continuous Integration and Continuous Delivery (CI/CD), Apache Kafka, Jenkins, Git, Bitbucket, Grafana, Terraform. Having a firm hold on the Cloud technologies. Strong engineering professional with a Bachelor of Technology focused in Computer Science and Engineering from Maulana Azad National Institute of Technology.</h3>
 
 - 🔭 I’m currently working on [Terraform using Google Cloud services](https://github.com/FAUZIANSHAIKH/GCP-Terraform-Challenge-Lab.git)
 
