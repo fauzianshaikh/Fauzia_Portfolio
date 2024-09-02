@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fauzia Naushad Shaikh</h1>
-<h3 align="center">I have 3+ years of experience as a Software Development Engineer (DevOps Engineer / SRE / Cloud Engineer) with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Jenkins, Continuous Integration and Continuous Delivery (CI/CD), Automating pipelines, Apache Kafka, Spinnaker Platform, Istio rules (Authorization Policy, Virtual Services and Config maps), Docker, Git, Load Balancers, Google Cloud Stackdriver, Veracode integration, Lighthouse integration, SonarQube Integration, Webhook Integration, Content Delivery Network (CDN), Grafana Dashboards, Namespace creation, handled weekly Production deployments in the project. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from Maulana Azad National Institute of Technology (NIT Bhopal).
+<h3 align="center">I have 5+ years of experience as a Software Development Engineer (DevOps Engineer / SRE / Cloud Engineer) with a demonstrated history of working in the software industry. Skilled in Google Cloud Platform(Kubernetes), Jenkins, Continuous Integration and Continuous Delivery (CI/CD), Automating pipelines, Apache Kafka, Spinnaker Platform, Istio rules (Authorization Policy, Virtual Services and Config maps), Docker, Git, Load Balancers, Google Cloud Stackdriver, Veracode integration, Lighthouse integration, SonarQube Integration, Webhook Integration, Content Delivery Network (CDN), Grafana Dashboards, Kibana, Namespace creation, handled weekly Production deployments in the project. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science and Engineering from Maulana Azad National Institute of Technology (NIT Bhopal).
 </h3>
 
 - 🔭 I’m currently working on [Terraform using Google Cloud services](https://github.com/FAUZIANSHAIKH/GCP-Terraform-Challenge-Lab.git)
 
-- 🌱 I’m currently learning **AWS, Microsoft Azure, Kubernetes, Docker**
+- 🌱 I’m currently learning **AWS, Gemini AI, Kubernetes, Docker**
 
 - 👯 I’m looking to collaborate on **Some innovation and creative DevOps project**
 
